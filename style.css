@@ -34,7 +34,7 @@
   position: relative;
   min-height: 300px;
   min-width: 100%;
-  background-image: url("./img/about.jpg");
+  background-image: url("images/about.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 0 -150px;
