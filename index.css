@@ -29,4 +29,41 @@
   color: white;
   text-align: center;
 }
+
+#about-content {
+  position: relative;
+  min-height: 300px;
+  min-width: 100%;
+  background-image: url("./img/about.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -150px;
+  color: white;
+}
+
+#courses-content {
+  position: relative;
+  min-height: 300px;
+  min-width: 100%;
+  background-image: url("./img/course.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -150px;
+  color: white;
+}
+
+.checked {
+  color: gold;
+}
+
+#contact-content {
+  position: relative;
+  min-height: 300px;
+  min-width: 100%;
+  background-image: url("./img/bg-contact.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -150px;
+  color: white;
+}
 /*# sourceMappingURL=index.css.map */
